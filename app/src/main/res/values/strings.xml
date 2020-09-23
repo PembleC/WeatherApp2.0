@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Carson SQLite Weather</string>
+    <string name="app_name">Carson\'s Weather App</string>
 
     <string name="forecast_for">Forecast for</string>
     <string name="loading_error_message">Woops.  We couldn\'t load your forecast.  Verify that you\'ve entered a valid OpenWeatherMap API key, check your internet connection, and try again.</string>
