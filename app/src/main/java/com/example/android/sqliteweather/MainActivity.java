@@ -66,6 +66,7 @@ public class MainActivity extends AppCompatActivity
         setSupportActionBar(toolbar);
 
         ActionBar actionBar = getSupportActionBar();
+        assert actionBar != null;
         actionBar.setDisplayHomeAsUpEnabled(true);      //Puts icon in actionbar
         actionBar.setHomeAsUpIndicator(R.drawable.ic_nav_menu);
 

@@ -13,7 +13,7 @@
     <string name="forecast_item_low_high_temp">Low: %1$d%3$s   High: %2$d%3$s</string>
     <string name="forecast_item_wind">Wind: %1$d MPH %2$s</string>
     <string name="forecast_item_humidity">Humidity: %1$d%%</string>
-    <string name="forecast_item_share_text">Forecast for %1$s, %2$s: %3$d%4$s - %5$s #CS492Weather</string>
+    <string name="forecast_item_share_text">Forecast for %1$s, %2$s: %3$d%4$s - %5$s </string>
 
     <!-- Strings for units pref -->
     <string name="pref_units_key" translatable="false">pref_units</string>
