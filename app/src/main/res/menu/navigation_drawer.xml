@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    <item-->
+<!--        android:id="@+id/nav_city_corvallis"-->
+<!--        android:title="@string/nav_city_name_corvallis"-->
+<!--        android:icon="@drawable/ic_action_location" />-->
+<!--    <item-->
+<!--        android:id="@+id/nav_city_salem"-->
+<!--        android:title="@string/nav_city_name_salem"-->
+<!--        android:icon="@drawable/ic_action_location" />-->
+<!--    <item-->
+<!--        android:id="@+id/nav_city_portland"-->
+<!--        android:title="@string/nav_city_name_portland"-->
+<!--        android:icon="@drawable/ic_action_location" />-->
+
+</menu>
